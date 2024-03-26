@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek-sharma-dev
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Javascript & ReactJS
+- 🌱 I’m currently learning NodeJs
 - 📫 To reach out to me, mail me at abhisheksharma10520@gmail.com
 
 <!---
