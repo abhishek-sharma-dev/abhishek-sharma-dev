@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma(@abhishek-sharma-dev)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [netflix clone](https://abhishek-sharma-netflix-clone.netlify.app/)
+- 🔭 I’m currently working on [netflix clone](https://trailer-netflix-clone.netlify.app/)
 
 - 🌱 I’m currently learning **NodeJs, figma**
 
